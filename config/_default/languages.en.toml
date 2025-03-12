@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "The Purple Review"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Jedidiah Hungbeme & Anna-Lisa Lafay"
 
 [params]
   dateFormat = "2 January 2006"
