@@ -1,5 +1,5 @@
 ---
-title: " "
+title: ""
 description: "This is home page (form follows function)."
 ---
 ![Cover](09110009.png)
