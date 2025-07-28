@@ -8,7 +8,7 @@ Any pattern or motive I lay out in this early stage will be outdated with the pa
 ____
 #### Issue #1
 - [Distinguishing _Knowing_ from Knowledge](Posts/first-post/lies-1)
-- Link
+- [The People vs Democracy](Posts/second-post/democracy)
 - Link
 ___
 
