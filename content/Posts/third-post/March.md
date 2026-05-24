@@ -3,10 +3,7 @@ author: "Jedidiah"
 title: "Seen/Read March 2026"
 date: "2026-04-01"
 description: ""
-tags: [
-    "Reviews”,
-    "Films",
-]
+tags: ["reviews", "films"]
 _build:
   render: always
   list: always
@@ -18,6 +15,7 @@ Shamelessly stealing from Steven Soderbergh's [Seen, Read blog](https://extensio
 ### Seen, Read March 2026
 
 The Secret Agent
+
 ![Brazilian film poster of The Secret Agent](The_Secret_Agent.png)
 
 A strong claim to the best film I’ve seen in a really long time. 
