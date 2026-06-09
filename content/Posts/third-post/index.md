@@ -1,6 +1,6 @@
 ---
 author: "Jedidiah"
-title: "Seen/Read 2026"
+title: "Seen/Read/Reviewed 2026"
 date: "2026-04-01"
 description: ""
 tags: ["reviews", "films"]
@@ -12,7 +12,7 @@ _build:
 
 Shamelessly stealing from Steven Soderbergh's [Seen, Read blog](https://extension765.com/blogs/soderblog). Lets see how long I keep this up. This will be a place to work through rough ideas about media with limited copyediting.
 
-### Seen, Read March 2026
+### Seen, Read, Reviewed March 2026
 
 **The Secret Agent**
 ![Cover](011.png)
@@ -33,17 +33,76 @@ Ultimately I am a big softy and cannot help but love the story of a group of peo
 
 **Good Luck, Have Fun, Don’t Die**
 
-Gore Verbinski made the best Pirates of the Caribbean films and Rango so has a lot of good will that this film, thankfully, doesn't spoil.
-Curious to see a guy who built his reputation on big budget spectacle slumming it, but the charms of Sam Rockwell (amongst others), a nice tale about parents & children, and a clever (if bombastic) original script see me smiling when credits roll. 
-The opening and closing sequence is the stuff of dreams. Happy to have more of these!
-p.s. belongs in the Juror #2 category for sci-fi
+* Gore Verbinski made the best Pirates of the Caribbean films and Rango so has a lot of good will that this film, thankfully, doesn't spoil.
+* Curious to see a guy who built his reputation on big budget spectacle slumming it, but the charms of Sam Rockwell (amongst others), a nice tale about parents & children, and a clever (if bombastic) original script see me smiling when credits roll. 
+* The opening and closing sequence is the stuff of dreams. Happy to have more of these!
+* p.s. belongs in the Juror #2 category for sci-fi
 
 **Peter Hujar’s Day**
 
+![Title](PHD1.png) ![PHD2](PHD2.png) ![PHD3](PHD3.png) ![PHD4](PHD4.png)
+
 There was a hint of a worry, upon discovering the film’s concept, that it would turn into a recording of a two-person play. It is shot and blocked with beauty and purpose that it remained a hint. 
+
 Ben Whishaw dances under the burden he was given in the role. 
+
 There is also a Mank quality to this; that I would better appreciate its nuance if I knew the details of the names it drops, but perhaps that’s a feature. A tale of a city where notoriety and clout can be its own currency right until you actually want to make a living. 
+
 Maybe you can still be young and surrounded by art and music and still think about money.
 
 
-### Seen, Read April 2026
+### Seen, Read, Reviewed April 2026
+
+**Crime 101**
+
+You get the sense that the entire film was conceived backwards: the finale thought of first and the rest constructed to build up to it. The finale however, is so great that you understand why.
+
+It is very much baby Heat and has a massive William Friedkin shrine in its bedroom, but there is something solid here: A respect and execution of the craft of well planned and shot chase scenes; a sincerity for its characters (perhaps overly so at times); and a grounding in the real city of Los Angeles. 
+
+With the exception of the Barbaro plot-point, everybody is using their star power to imbue the characters they play with a depth that pops off the screen. Thank goodness that TV actor Pablo Pascal was replaced by the cinematic giant that is Mark Ruffalo.
+
+p.s. Overjoyed that my personal fave Halle Berry is in a film that is both good and watchable.
+
+**How to Make a Killing**
+
+There is a moment when I thought this would turn out to be discount Hit Man without a compelling romance plot (Jessica Henwick is wasted as basically a walking part-time girlfriend/part-time conscience for the protagonist), but it won me over. Perhaps it's my fondness for Glen Powell or the originality of how the plot weaves over time, but I liked it. 
+
+A great time at the cinema. 
+
+Some spare thoughts:
+* Would this be a stronger film without Margaret Qualley?
+* Why was this film seemingly buried? (ah an A24 release! Makes sense now)
+* Did not like the framing device of the confession to a priest, almost seems like a note given while editing to help move the plot along.
+* Should really find sometime, based on a friend's recommendation, to watch Kind Hearts and Coronets
+
+**The English Understand Wool, Helen DeWitt**
+
+Wish the novella had the prestige in the Anglosphere it does in France. A charming and cleverly written story with a surprisingly density even if you can finish it in an hours or two
+
+**The Silver Bone, Andrey Kurkov**
+
+Kind of an oddly constructed book. A mystery novel, but the majority of its pages are spent following a young man adjust to a changing Ukraine. Though I will say that when the plot really begins it moves. Pleasant and well written, but I think I wanted slightly more. 
+
+**The Drama**
+
+Liked it a lot once the credits rolled. Liked it less since walking out of the cinema.
+
+Theres a trick the film pulls in not letting conversations, sometimes important ones at important moments between important characters, finish. It cuts to the conclusion or splices in part of another scene. While this might help build a dreamlike or surreal tone in an otherwise grounded story, it robs the characters of depth and thus stakes. 
+
+Who are these people? Why do they want to be/remain in each other's lives? Those are the questions the film is totally uninterested in asking. It uses the star power of its leads to lend an air of legitimacy to their characters (Pattinson is particularly great at playing quirky men) so you buy the relationship even when the film does no work in building it up. Movies do this all the time, but when The Drama now asks the audience to think 'big questions' about how new information would affect how you see your partners it falls apart. It is fun to see characters react to the forces pushing them in certain directions, but you might start to realise they moved so easily because there was never anything keeping them together.
+
+**Project Hail Mary**
+
+I can feel my emotional puppet strings being pulled, I know how Lord and Miller construct a joke enough to predict it, it probably needed once more draft to make the plot feel seamless. Loved in nonetheless. Ryan Gosling passes the Tom Hanks test: can a film mostly focusing on you acting alone still be entertaining? A resounding yes from me.
+
+p.s. While I miss serious movie Ryan Gosling I would not say no to him as the lone human in a muppets film
+
+**Amadeus (Theatrical Cut)**
+
+Perhaps a decade ago, I watched the director's cut. Three hours later I came away loving it even if it was not an always pleasant watch. Now that the theatrical release is more available you really have to wonder what possessed them to poison the well with an inferior release. A real testament to the value of editing, for this watch flew by with a rhythm not found in the longer director's cut.
+
+This might be the closest to Howard Hawks famous dictum that a great film has three good scenes and no bad ones. Salieri encountering Mozart for the first time, the Opera scenes, and the final composition are masterful even if they are aided by some of the best classical music has produced. In my first watch my eyes were on Hulce's Mozart, how could I not, and his impish performance contra the tropes of the child prodigy with the young Salieri's volcanic animosity kept under the surface. But this watch it was all on the older Salieri, his words and his actions, as he builds what is now the establish character of the mediocre moon in the presence of the resplendent sun. 
+
+I wonder how much I would like this less with original music as opposed to some of my personal favourites. Lacrimosa especially but really everything from Requiem is almost a cheat code. Taking this in mind, is my love for this film because I read it more as a process film: the joy comes from Salieri recognising, beyond his peers and the court, the value of what he is listening to rather than appreciating the dramatic potential of someone who is able to recognise quality even as, in that moment, they realise how far they are from it. This would explain why the scene that sings to me is not Salieri in awe of the gulf, but the brief moment when he works with Mozart and gets to create with the maestro.
+
+The good biopics, whether partly or wholly fictional, place you as an audience for the creation of the great work you admire. The great ones, on the other hand, puts you side by side so that, even for a moment, you feel the joy and pleasure found in the act of creation.
