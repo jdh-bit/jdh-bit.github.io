@@ -15,7 +15,7 @@ Shamelessly stealing from Steven Soderbergh's [Seen, Read blog](https://extensio
 ### Seen, Read March 2026
 
 **The Secret Agent**
-
+![Cover](011.png)
 A strong claim to the best film I’ve seen in a really long time. 
 Wagner Moura is a certifiable great. 
 It’s one of those films, like the ocean, that is little disorienting when you enter. It’s a whole other world, with two faced cats, and a police chief with a black son and a white one; character aplenty. From the very first scene you feel that you are missing a mountain of context and layers of symbolism and meaning, but trust that the current will pull you to an ending that is honest and true. As the credit roll you are baptised and made whole. Bravo!
@@ -44,3 +44,6 @@ There was a hint of a worry, upon discovering the film’s concept, that it woul
 Ben Whishaw dances under the burden he was given in the role. 
 There is also a Mank quality to this; that I would better appreciate its nuance if I knew the details of the names it drops, but perhaps that’s a feature. A tale of a city where notoriety and clout can be its own currency right until you actually want to make a living. 
 Maybe you can still be young and surrounded by art and music and still think about money.
+
+
+### Seen, Read April 2026
