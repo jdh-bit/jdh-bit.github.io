@@ -9,6 +9,6 @@ ____
 #### Posts
 - [Distinguishing _Knowing_ from Knowledge](Posts/first-post/lies-1)
 - [The People vs Democracy](Posts/second-post/democracy)
-- [Seen, Read 2026](Posts/third-post/March)
+- [Seen, Read 2026](Posts/third-post/index)
 ___
 
