@@ -1,0 +1,19 @@
+{
+  "$schema": "https://tangled.org/stevedylan.dev/sequoia/raw/main/sequoia.schema.json",
+  "siteUrl": "https://www.purplereview.com",
+  "contentDir": "content/Posts",
+  "imagesDir": " ",
+  "publicDir": "static",
+  "outputDir": "public",
+  "publicationUri": "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.publication/3mu7sv4xsoy2d",
+  "frontmatter": {
+    "publishDate": "date",
+    "coverImage": " "
+
+  },
+  "bluesky": {
+      "enabled": true,
+      "maxAgeDays": 30
+  },
+  "publishContent": true
+}

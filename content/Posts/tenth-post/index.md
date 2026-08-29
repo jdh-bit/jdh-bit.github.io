@@ -12,6 +12,7 @@ _build:
   render: always
   list: always
   publishResources: true
+atUri: "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.document/3mu7ua2vsu72q"
 ---
 There are a few unstructured thoughts on my mind I’d love to put down on paper so here we go, in no particular order:
 

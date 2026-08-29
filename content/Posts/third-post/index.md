@@ -8,6 +8,7 @@ _build:
   render: always
   list: always
   publishResources: true
+atUri: "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.document/3mu7u7ymj4f2d"
 ---
 
 Shamelessly stealing from Steven Soderbergh's [Seen, Read blog](https://extension765.com/blogs/soderblog). Lets see how long I keep this up. This will be a place to work through rough ideas about media with limited copyediting.

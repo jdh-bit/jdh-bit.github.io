@@ -12,6 +12,7 @@ _build:
   render: always
   list: always
   publishResources: true
+atUri: "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.document/3mu7ua2zbe32n"
 ---
 Even being casually aware of frenzy surrounding technological developments, take AI as an example, you are sure to have encountered doomerism. These are pronouncements, predications, and warnings that while these machines are _definitely_ the future, we must be careful lest we open pandora’s box. Hearing this, especially from those who are designing and profiting from these tools, appears a strange conflict of interest; why would anybody talk down their own creations? Perhaps you, like me, might ask a more cynical question: why would you build the very things you warn us about?
 

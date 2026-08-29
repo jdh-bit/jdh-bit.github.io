@@ -7,6 +7,7 @@ tags: [
     "truth",
     "text",
 ]
+atUri: "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.document/3mu7ua2dxlx2w"
 ---
 
 Science teachers at the college level have a running joke. Their first lesson is getting you to forget everything you have learnt before. Upon beginning one of my first physics classes, my teacher wrote the famous Socratic paradox on the board: “I know that I know nothing.”

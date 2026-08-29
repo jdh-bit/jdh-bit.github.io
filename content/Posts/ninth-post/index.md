@@ -11,6 +11,7 @@ _build:
   render: always
   list: always
   publishResources: true
+atUri: "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.document/3mu7ua2al672q"
 ---
 One thing shared by Crypto, Web3, and the Metaverse—other than having arrested the technological zeitgeist in the past 24 months—is that nobody knows what they mean. Well, apart from those championing these developments. The average person, however, understands mainly the mindshare these concepts command. All of us, whether we be experts, evangelists, or apathetic, are subject to public debates on regulations, policy, and their societal consequences. People feeling forced to speak about technology without expertise produces a way of talking about technological developments that impairs constructive public discourse and privileges powerful corporations.
 

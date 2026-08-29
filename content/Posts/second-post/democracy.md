@@ -11,6 +11,7 @@ _build:
   render: always
   list: always
   publishResources: true
+atUri: "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.document/3mu7ua255x223"
 ---
 
 On Monday, March 31, the Paris Criminal Court found far-right politician Marine Le Pen [guilty](https://www.lemonde.fr/en/france/article/2025/03/31/french-far-right-leader-marine-le-pen-found-guilty-of-embezzlement-of-public-funds_6739685_7.html#) of the embezzlement of public funds. The sentence includes a four-year prison sentence (two suspended and two served on house arrest), a €100,000 fine, and a five-year ban on standing for public office. Despite there being a restriction on her physical freedom and a considerable financial penalty, it is the ban that has spilt the most digital ink. [The Times of London](https://www.thetimes.com/comment/the-times-view/article/barring-marine-le-pen-from-the-presidential-election-will-inflame-tensions-dgdqnvm8z), [The Economist](https://www.economist.com/leaders/2025/04/01/why-marine-le-pen-should-be-allowed-to-run-for-president) (also of London), and [Jacobin](https://jacobin.com/2025/03/marine-le-pen-embezzlement-propaganda/) magazine (thankfully not of London) all ran pieces declaring the ban anti-democratic; a curious charge to me. Let me explain:
