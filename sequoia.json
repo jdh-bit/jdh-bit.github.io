@@ -9,11 +9,13 @@
   "frontmatter": {
     "publishDate": "date",
     "coverImage": " "
-
   },
   "bluesky": {
-      "enabled": true,
-      "maxAgeDays": 30
+    "enabled": true,
+    "maxAgeDays": 30
   },
-  "publishContent": true
+  "publishContent": true,
+  "ui": {
+    "components": "assets/js"
+  }
 }
