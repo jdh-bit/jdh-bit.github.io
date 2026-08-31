@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Film on The Purple Review</title>
+    <link>https://your_domain.com/tags/film/</link>
+    <description>Recent content in Film on The Purple Review</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Jedidiah Hungbeme &amp; Anna-Lisa Lafay 2025</copyright>
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://your_domain.com/tags/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Killer</title>
+      <link>https://your_domain.com/posts/eight-post/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/eight-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Killers of the Flower Moon and Emancipation</title>
+      <link>https://your_domain.com/posts/seventh-post/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/seventh-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mustang</title>
+      <link>https://your_domain.com/posts/sixth-post/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/sixth-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Kid Detective</title>
+      <link>https://your_domain.com/posts/fifth-post/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/fifth-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

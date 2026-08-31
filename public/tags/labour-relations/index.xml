@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labour Relations on The Purple Review</title>
+    <link>https://your_domain.com/tags/labour-relations/</link>
+    <description>Recent content in Labour Relations on The Purple Review</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Jedidiah Hungbeme &amp; Anna-Lisa Lafay 2025</copyright>
+    <lastBuildDate>Wed, 19 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://your_domain.com/tags/labour-relations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Strike</title>
+      <link>https://your_domain.com/posts/tenth-post/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/tenth-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

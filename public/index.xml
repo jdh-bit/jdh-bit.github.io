@@ -2,25 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Purple Review</title>
-    <link>http://localhost:1313/</link>
+    <link>https://your_domain.com/</link>
     <description>Recent content on The Purple Review</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Jedidiah Hungbeme &amp; Anna-Lisa Lafay 2025</copyright>
-    <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://your_domain.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seen/Read/Reviewed 2026</title>
+      <link>https://your_domain.com/posts/third-post/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/third-post/</guid>
+      <description></description>
+    </item>
     <item>
       <title>The People vs Democracy</title>
-      <link>http://localhost:1313/posts/second-post/democracy/</link>
+      <link>https://your_domain.com/posts/second-post/democracy/</link>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second-post/democracy/</guid>
+      <guid>https://your_domain.com/posts/second-post/democracy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Talking about Talking about AI</title>
+      <link>https://your_domain.com/posts/ninth-post/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/ninth-post/</guid>
       <description></description>
     </item>
     <item>
       <title>Distinguishing Knowing from Knowledge</title>
-      <link>http://localhost:1313/posts/first-post/lies-1/</link>
+      <link>https://your_domain.com/posts/first-post/lies-1/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/lies-1/</guid>
+      <guid>https://your_domain.com/posts/first-post/lies-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Killer</title>
+      <link>https://your_domain.com/posts/eight-post/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/eight-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Killers of the Flower Moon and Emancipation</title>
+      <link>https://your_domain.com/posts/seventh-post/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/seventh-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mustang</title>
+      <link>https://your_domain.com/posts/sixth-post/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/sixth-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Kid Detective</title>
+      <link>https://your_domain.com/posts/fifth-post/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/fifth-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On Strike</title>
+      <link>https://your_domain.com/posts/tenth-post/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/tenth-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Will AI Doom Humanity?</title>
+      <link>https://your_domain.com/posts/eleventh-post/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://your_domain.com/posts/eleventh-post/</guid>
       <description></description>
     </item>
   </channel>
