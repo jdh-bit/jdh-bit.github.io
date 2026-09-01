@@ -143,4 +143,9 @@
   {{ if templates.Exists "partials/extend-head.html" }}
     {{ partial "extend-head.html" . }}
   {{ end }}
+  {{ if .Params.atUri }}
+    <link rel="site.standard.document" href="{{ .Params.atUri }}" />
+{{ end }}
+  <link rel="site.standard.publication" href="at://did:plc:abc123/site.standard.publication/rkey" />
+{{ end }}
 </head>
