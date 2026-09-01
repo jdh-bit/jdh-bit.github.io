@@ -53,7 +53,8 @@ jobs:
         run: npm install -g sequoia-cli
 
       - name: Publish to ATProto
-        env:
+        env: 
+          HUGO_VERSION: 0.128.0
           ATP_IDENTIFIER: ${{ secrets.ATP_IDENTIFIER }}
           ATP_APP_PASSWORD: ${{ secrets.ATP_APP_PASSWORD }}
         run: sequoia publish
