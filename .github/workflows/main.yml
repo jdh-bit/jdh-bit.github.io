@@ -42,10 +42,10 @@ jobs:
           submodules: recursive
 
       - name: Install dependencies
-      - run: bun install
+        run: bun install
 
       - name: Install Sequoia
-      - run: bun install -g sequoia-cli
+        run: bun install -g sequoia-cli
 
       - name: Publish to ATProto
         env:
