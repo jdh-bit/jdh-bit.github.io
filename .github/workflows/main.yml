@@ -39,14 +39,15 @@ jobs:
         uses: actions/checkout@v6
         with:
           submodules: recursive
-          
-      - uses: oven-sh/setup-bun@v2
-      
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+
       - name: Install dependencies
-        run: bun install
+        run: npm ci
 
       - name: Install Sequoia
-        run: bun install -g sequoia-cli
+        run: npm install -g sequoia-cli
 
       - name: Publish to ATProto
         env:
@@ -62,8 +63,8 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      #- name: Install Node.js dependencies
+      #  run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
