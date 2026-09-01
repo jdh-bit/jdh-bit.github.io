@@ -54,7 +54,7 @@ jobs:
 
       - name: Publish to ATProto
         env: 
-          HUGO_VERSION: 0.128.0
+          #HUGO_VERSION: 0.128.0
           ATP_IDENTIFIER: ${{ secrets.ATP_IDENTIFIER }}
           ATP_APP_PASSWORD: ${{ secrets.ATP_APP_PASSWORD }}
         run: sequoia publish
