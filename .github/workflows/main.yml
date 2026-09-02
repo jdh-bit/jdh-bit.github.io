@@ -80,8 +80,8 @@ jobs:
         with:
           include-hidden-files: true
           path: ./public
-      - name: Inject link tahes
-        run: sequoia inject
+      #- name: Inject link tags
+        #run: sequoia inject
 
   # Deployment job
   deploy:
