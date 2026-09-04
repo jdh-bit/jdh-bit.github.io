@@ -2,14 +2,41 @@
   "$schema": "https://tangled.org/stevedylan.dev/sequoia/raw/main/sequoia.schema.json",
   "siteUrl": "https://www.purplereview.com",
   "contentDir": "content/Posts",
-  "imagesDir": " ",
+  "imagesDir": "assts/img",
   "publicDir": "static",
   "outputDir": "public",
   "publicationUri": "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.publication/3mu7sv4xsoy2d",
   "frontmatter": {
     "publishDate": "date",
-    "coverImage": " "
+    "coverImage": "assets/img/cover.png"
   },
+  "basicTheme": {
+    "$type": "site.standard.theme.basic",
+    "background": {
+      "$type": "site.standard.theme.color#rbg",
+      "r": 242,
+      "g": 235,
+      "b": 213
+    },
+    "foreground": {
+      "$type": "site.standard.theme.color#rgb",
+      "r": 28,
+      "g": 3,
+      "b": 43
+    },
+    "accent": {
+      "$type": "site.standard.theme.color#rgb",
+      "r": 127,
+      "g": 35,
+      "b": 54
+    },
+    "accentForeground": {
+      "$type": "site.standard.theme.color#rgb",
+      "r": 242,
+      "g": 235,
+      "b": 213
+    }
+  }
   "bluesky": {
     "enabled": true,
     "maxAgeDays": 30
