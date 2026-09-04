@@ -32,11 +32,11 @@
     },
     "accentForeground": {
       "$type": "site.standard.theme.color#rgb",
-      "r": 242,
-      "g": 235,
-      "b": 213
+      "r": 231,
+      "g": 155,
+      "b": 137
     }
-  }
+  },
   "bluesky": {
     "enabled": true,
     "maxAgeDays": 30
