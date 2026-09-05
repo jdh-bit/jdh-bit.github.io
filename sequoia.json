@@ -1,10 +1,13 @@
 {
+  "publicDir": "static",
+  "outputDir": "public",
+  "pathPrefix": "/posts",
+  "publishContent": true,
+  "autoSync": true,
   "$schema": "https://tangled.org/stevedylan.dev/sequoia/raw/main/sequoia.schema.json",
   "siteUrl": "https://www.purplereview.com",
   "contentDir": "content/Posts",
   "imagesDir": "assts/img",
-  "publicDir": "static",
-  "outputDir": "public",
   "publicationUri": "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.publication/3mu7sv4xsoy2d",
   "frontmatter": {
     "publishDate": "date",
@@ -41,7 +44,6 @@
     "enabled": true,
     "maxAgeDays": 30
   },
-  "publishContent": true,
   "ui": {
     "components": "assets/js"
   }
