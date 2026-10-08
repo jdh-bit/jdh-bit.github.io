@@ -9,14 +9,14 @@
 {{- if .Params.images -}}
   {{- range .Params.images -}}
     <meta property="og:image" content="{{ . | absURL }}" />
-  {{- end -}}s
+  {{- end -}}
 {{- else -}}
   <!-- Tries to find a page bundle image or falls back to a global asset -->
   {{- $images := .Resources.ByType "image" -}}
   {{- $featured := $images.GetMatch "*feature*" -}}
   {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
-  {{- with $featured -}}
-    <meta property="og:image" content="{{ .Permalink }}" />
+  {{- if $featured -}}
+    <meta property="og:image" content="{{ $featured.Permalink }}" />
   {{- else if .Site.Params.images -}}
     {{- range .Site.Params.images -}}
       <meta property="og:image" content="{{ . | absURL }}" />
