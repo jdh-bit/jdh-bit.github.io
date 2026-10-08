@@ -1,6 +1,5 @@
 ---
 author: "Jedidiah"
-draft = true
 title: "Enemies of the Revolution"
 date: "2026-06-20"
 description: ""
