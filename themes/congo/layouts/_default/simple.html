@@ -10,6 +10,8 @@
     </header>
     <section class="prose mt-6 max-w-full dark:prose-invert">
       {{ .Content | emojify }}
+      <sequoia-subscribe></sequoia-subscribe>
+        <script type="module" src="assets/js/sequoia-subscribe.js"></script>
     </section>
     <footer class="pt-8">
       {{ partial "sharing-links.html" . }}
