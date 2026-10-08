@@ -30,5 +30,4 @@ summaryLength = 0
     disableInlineCSS = true
 
 [params]
-    description =
     images = ["/images/default-share-image.jpg"]
