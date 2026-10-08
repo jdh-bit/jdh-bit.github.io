@@ -7,11 +7,11 @@
   "$schema": "https://tangled.org/stevedylan.dev/sequoia/raw/main/sequoia.schema.json",
   "siteUrl": "https://www.purplereview.com",
   "contentDir": "content/Posts",
-  "imagesDir": "assts/img",
+  "imagesDir": "static",
   "publicationUri": "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.publication/3mu7sv4xsoy2d",
   "frontmatter": {
     "publishDate": "date",
-    "coverImage": "images/default-share-image.jpeg"
+    "coverImage": "static/cover.png"
   },
   "basicTheme": {
     "$type": "site.standard.theme.basic",

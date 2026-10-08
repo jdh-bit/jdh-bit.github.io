@@ -1,0 +1,40 @@
+/* Russell scheme */
+:root {
+  --color-neutral: 242, 235, 213;
+  /* Black Rock */
+  --color-neutral-50: 242, 235, 213;
+  --color-neutral-100: 189, 182, 193;
+  --color-neutral-200: 180, 172, 186;
+  --color-neutral-300: 171, 162, 178;
+  --color-neutral-400: 121, 106, 130;
+  --color-neutral-500: 96, 79, 107;
+  --color-neutral-600: 72, 54, 85;
+  --color-neutral-700: 49, 29, 63;
+  --color-neutral-800: 28, 3, 43;
+  --color-neutral-900: 27, 3, 39;
+  --color-neutral-950: 3, 7, 18;
+  /* Sienna */
+  --color-primary-50: 248, 215, 206;
+  --color-primary-100: 243, 194, 183;
+  --color-primary-200: 237, 174, 160;
+  --color-primary-300: 231, 155, 137;
+  --color-primary-400: 215, 114, 94;
+  --color-primary-500: 196, 71, 53;
+  --color-primary-600: 150, 57, 43;
+  --color-primary-700: 127, 35, 54;
+  --color-primary-800: 106, 43, 32;
+  --color-primary-900: 85, 37, 28;
+  --color-primary-950: 64, 30, 23;
+  /* Nile Blue */
+  --color-secondary-50: 236, 246, 248;
+  --color-secondary-100: 197, 229, 235;
+  --color-secondary-200: 156, 212, 220;
+  --color-secondary-300: 112, 194, 209;
+  --color-secondary-400: 53, 177, 196;
+  --color-secondary-500: 50, 156, 172;
+  --color-secondary-600: 51, 96, 104;
+  --color-secondary-700: 23, 78, 87;
+  --color-secondary-800: 23, 69, 77;
+  --color-secondary-900: 23, 61, 68;
+  --color-secondary-950: 22, 53, 59;
+}
