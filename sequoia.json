@@ -11,7 +11,7 @@
   "publicationUri": "at://did:plc:xpppvmd7bcjwzlkgsaraxsyn/site.standard.publication/3mu7sv4xsoy2d",
   "frontmatter": {
     "publishDate": "date",
-    "coverImage": "assets/img/cover.png"
+    "coverImage": "images/default-share-image.jpeg"
   },
   "basicTheme": {
     "$type": "site.standard.theme.basic",
