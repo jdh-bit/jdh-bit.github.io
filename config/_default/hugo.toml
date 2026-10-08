@@ -28,3 +28,7 @@ summaryLength = 0
 [services]
   [services.x]
     disableInlineCSS = true
+
+[params]
+    description =
+    images = ["/images/default-share-image.jpg"]
