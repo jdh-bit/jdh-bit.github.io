@@ -13,7 +13,6 @@ _build:
 
 ### Enemies of the Revolution
 
-![Cover](C4.png)
 
 Speech! Speech! Speech!
 
