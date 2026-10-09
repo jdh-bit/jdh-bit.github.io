@@ -53,3 +53,6 @@ Exemplary of this turn from knowledge to understanding, is the recent [New Yorke
 
 ### Discourse is not a Lecture, it's a Game
 I want to finish by considering this proposition and why I think it is important to take to heart for those that are critical of the cost of tech overreach. By virtue of the overwhelming capital advantage, the tech industry will seek to bend narrative in beneficial ways, providing only the examples that allow their products to mean what they want them to mean. Reality be damned. I have focused on fictional examples and how their rigid structure restrains public discourse in ways that can impair critique. Seeing Siri as the future made it difficult to consider that it actually wasn’t that useful for our lives. If it’s the future, its usefulness is implied. Another fictional example that lay outside the scope of this essay is AI doomerism, which functions as another quasi-fictional example albeit more pessimistic than the image of the future as cool and exciting. Perhaps I will return to unpack that metaphor. If we are to hold power accountable, we cannot run from the game and lecture from the side lines we must join the rally. Tech has served and now we must return.
+
+<sequoia-subscribe></sequoia-subscribe>
+  <script type="module" src="static/js/sequoia-subscribe.js"></script>
